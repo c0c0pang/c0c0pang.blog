@@ -1,7 +1,7 @@
 import ProfileImg from '@public/img/profile.svg'
 
 export const INTRO_EN = {
-    name: '최원석',
+    name: 'Wonseok Choi',
     about: 'Front-end developers who value communication and growth',
     profileImg: <ProfileImg />,
     summary: 'I believe that development starts with communication\nI think that good communication can solve problems from different perspectives and create good results.\nI am constantly studying development to create good results',
